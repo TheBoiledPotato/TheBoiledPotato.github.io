@@ -1,4 +1,4 @@
-<DOCTYPE! html>
+
 <html>
 <head>
 <title> This is a title that I am thinking of renaming. </title>
